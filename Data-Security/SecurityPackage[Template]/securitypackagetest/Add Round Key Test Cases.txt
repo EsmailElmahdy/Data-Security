@@ -1,0 +1,80 @@
+Add Round Key
+
+Test Case 1 :
+
+input :
+
+matrix 1:
+
+32 88 31 e0
+43 5a 31 37
+f6 30 98 07
+a8 8d a2 34
+
+matrix 2:
+
+2b 28 ab 09
+7e ae f7 cf
+15 d2 15 4f
+16 a6 88 3c
+
+expected :
+
+19 a0 9a e9
+3d f4 c6 f8
+e3 e2 8d 48
+be 2b 2a 08
+*
+*
+*
+Test Case 2 :
+
+input :
+
+matrix 1:
+
+04 e0 48 28
+66 cb f8 06
+81 19 d3 26
+e5 9a 7a 4c
+
+matrix 2:
+
+a0 88 23 2a
+fa 54 a3 6c
+fe 2c 39 76
+17 b1 39 05
+
+expected :
+
+a4 68 6b 02
+9c 9f 5b 6a
+7f 35 ea 50
+f2 2b 43 49
+*
+*
+*
+Test Case 3 :
+
+input :
+
+matrix 1:
+
+58 1b db 1b
+4d 4b e7 6b
+ca 5a ca b0
+f1 ac a8 e5
+
+matrix 2:
+
+f2 7a 59 73
+c2 96 35 59
+95 b9 80 f6
+f2 43 7a 7f
+
+expected :
+
+aa 61 82 68
+8f dd d2 32
+5f e3 4a 46
+03 ef d2 9a

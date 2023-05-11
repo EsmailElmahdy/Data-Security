@@ -1,0 +1,59 @@
+Mix Columns
+
+Test Case 1 :
+
+Input :
+
+d4 e0 b8 1e
+bf b4 41 27
+5d 52 11 98
+30 ae f1 e5
+
+Expected :
+
+04 e0 48 28
+66 cb f8 06
+81 19 d3 26
+e5 9a 7a 4c
+
+*
+*
+*
+Test Case 2 :
+
+Input :
+
+49 45 7f 77
+db 39 02 de
+87 53 d2 96
+3b 89 f1 1a
+
+Expected :
+
+58 1b db 1b
+4d 4b e7 6b
+ca 5a ca b0
+f1 ac a8 e5
+
+*
+*
+*
+Test Case 3 :
+
+Input :
+
+ac ef 13 45
+73 c1 b5 23
+cf 11 d6 5a
+7b df b5 b8
+
+Expected :
+
+75 20 53 bb
+ec 0b c0 25
+09 63 cf d0
+93 33 7c dc
+
+
+The inverse 
+اعكس الاكسبكتيد و الانبوت
